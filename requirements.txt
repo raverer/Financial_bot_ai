@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-sqlalchemy
-python-dotenv
 requests
 pydantic
-rapidfuzz
+email-validator
+python-dotenv
