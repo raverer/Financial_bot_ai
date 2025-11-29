@@ -5,3 +5,6 @@ pydantic
 email-validator
 requests
 python-dotenv
+httpx
+python-multipart
+rapidfuzz
